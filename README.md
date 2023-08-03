@@ -33,9 +33,9 @@ You can connect with me through [LinkedIn](https://www.linkedin.com/in/ka-chun-p
 
 <h2> My Blog Posts </h2>
 
-[Bias-Variance Tradeoff & Regularization](https://rickypang0219.github.io/data%20science/Regularization-BiasVariance/) <br/>
-[Fluent Python: Functional Programming](https://rickypang0219.github.io/python/Python-Functional/) <br/>
-[One-dimensional Random Walk](https://rickypang0219.github.io/quant%20series/random-walk/)  <br/>
-[Matrix Product States](https://rickypang0219.github.io/MPS/)
+1. [Bias-Variance Tradeoff & Regularization](https://rickypang0219.github.io/data%20science/Regularization-BiasVariance/) <br/>
+2. [Fluent Python: Functional Programming](https://rickypang0219.github.io/python/Python-Functional/) <br/>
+3. [One-dimensional Random Walk](https://rickypang0219.github.io/quant%20series/random-walk/)  <br/>
+4. [Matrix Product States](https://rickypang0219.github.io/MPS/)
 
 
