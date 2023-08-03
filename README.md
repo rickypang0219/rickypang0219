@@ -1,5 +1,6 @@
-<h1>👨🏻‍💻 Ricky Pang, <br/>
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=32&duration=2000&pause=1000&color=2196F3&width=435&lines=I+am+a+Physicist_;I+am+an+Programmer_;I+am+an+AI+Developer_;I+am+a+Web+Developer_" alt="Typing SVG" /></a>
+<h1> 👨🏻‍💻 Ricky Pang,
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=32&duration=1000&pause=1000&color=2196F3&width=435&lines=I+am+a+Physicist_;I+am+a+Programmer_;I+am+an+AI+%2F+Web+Developer_" alt="Typing SVG" /></a>
 </h1>
 
 Hi! I am an aspiring physics M.Phil graduate in Hong Kong. Currently I am working on my [portfilio website](https://github.com/rickypang0219/Vite_Project) using Django and ReactJS. During my MPhil, I researched on [Entanglement Renormalization](https://arxiv.org/abs/2206.11761) which is related to **Deep Learning (Auto-Encoder)** and **image compression**. Now I am seeking a Quant or AI/WebDev developer position!
