@@ -7,7 +7,7 @@ Hi! I am an aspiring physics M.Phil graduate in Hong Kong. Currently I am workin
 
 You can connect with me through [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/ka-chun-pang-674269229/) and [emial](rickpang_aidev@outlook.com)
 
-
+<span style="color: red;">This text is red</span>
 
 
 <h2> Languages and Tools</h2>
