@@ -26,4 +26,4 @@ You can connect with me through [LinkedIn](https://linkedin.com/in/https://www.l
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40/>
 </div>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickypang0219&show_icons=true&locale=en&layout=compact" alt="rickypang0219" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickypang0219&show_icons=true&locale=en&layout=compact" alt="rickypang0219" />
