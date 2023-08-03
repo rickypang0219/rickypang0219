@@ -1,6 +1,6 @@
 <div className="Intro">
 <h1 align="left">👨🏻‍💻 Ricky Pang,  <br/> 
-A Passionate <p style="color: #006699;"> Physicis Graduate</p> and <font color="#2196f3"> AI/Web Devloper</font>
+A Passionate <span style="color:#2196f3"> Physicis Graduate</span> and <font color="#2196f3"> AI/Web Devloper</font>
 </h1> </div>
 
 Hi! I am an aspiring physics M.Phil graduate in Hong Kong. Currently I am working on my [portfilio website](https://github.com/rickypang0219/Vite_Project) using Django and ReactJS. During my MPhil, I researched on [Entanglement Renormalization](https://arxiv.org/abs/2206.11761) which is related to Deep Learning (Auto-Encoder) and image compression. Now I am seeking a Quant or AI/WebDev developer position!
