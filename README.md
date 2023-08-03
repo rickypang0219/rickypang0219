@@ -30,7 +30,7 @@ You can connect with me through [LinkedIn](https://www.linkedin.com/in/ka-chun-p
 
 
 <h2> Stats </h2>
-<div align="center" style="display: flex; flex-direction: row;" > 
+<div align="left" style="display: flex; flex-direction: row;" > 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickypang0219&show_icons=true&locale=en&layout=compact" alt="rickypang0219" height=200 />
 <img align="center" src="https://leetcard.jacoblin.cool/rickypang0219" alt="Leetcode Stats" />
 </div>
