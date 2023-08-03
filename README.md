@@ -11,6 +11,7 @@ You can connect with me through [LinkedIn](https://linkedin.com/in/https://www.l
 
 
 <h2> Languages and Tools</h2>
+<div style="display: flex; flex-direction: row;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=40 width=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   height=40 width=40  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height=40 />
@@ -24,9 +25,6 @@ You can connect with me through [LinkedIn](https://linkedin.com/in/https://www.l
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=40/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40/>
-
-
+</div>
+<br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickypang0219&show_icons=true&locale=en&layout=compact" alt="rickypang0219" />
-
-          
-                    
