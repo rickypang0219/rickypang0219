@@ -6,8 +6,6 @@ Hi! I am an aspiring physics M.Phil graduate in Hong Kong. Currently I am workin
 
 You can connect with me through [LinkedIn](https://www.linkedin.com/in/ka-chun-pang-674269229/) and [Email](rickpang_aidev@outlook.com)
 
-**Hello World**
-
 
 <h2> Languages and Tools</h2>
 <div style="display: flex; flex-direction: row;">
