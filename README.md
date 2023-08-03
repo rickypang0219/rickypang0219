@@ -4,7 +4,7 @@ A Passionate <span style="color:#2196f3"> Physicis Graduate </span> and AI/Web D
 
 Hi! I am an aspiring physics M.Phil graduate in Hong Kong. Currently I am working on my [portfilio website](https://github.com/rickypang0219/Vite_Project) using Django and ReactJS. During my MPhil, I researched on [Entanglement Renormalization](https://arxiv.org/abs/2206.11761) which is related to Deep Learning (Auto-Encoder) and image compression. Now I am seeking a Quant or AI/WebDev developer position!
 
-You can connect with me through [LinkedIn](https://www.linkedin.com/in/ka-chun-pang-674269229/) and [emial](rickpang_aidev@outlook.com)
+You can connect with me through [LinkedIn](https://www.linkedin.com/in/ka-chun-pang-674269229/) and [Emial](rickpang_aidev@outlook.com)
 
 **Hello World**
 
