@@ -31,7 +31,7 @@ You can connect with me through [LinkedIn](https://www.linkedin.com/in/ka-chun-p
 
 
 ## Current Projects 
-1. [My porfolio webpage](https://rickypang0219.github.io/Vite_Project/) and its [GitHub pages](https://github.com/rickypang0219/Vite_Project. I built this webpage using Vite/ReactJS and Material UI. This project is still on-going and I am going to add Blog posts to it using Django in future.
+1. [My porfolio webpage](https://rickypang0219.github.io/Vite_Project/) and its [GitHub page](https://github.com/rickypang0219/Vite_Project). I built this webpage using Vite/ReactJS and Material UI. This project is still on-going and I am going to add Blog posts to it using Django in future.
 2. [Ising model simulation with C](https://github.com/rickypang0219/C_simulation). Ising model is a famous model in condensed matter physics as it describes the phases of matter. In this project, I used C to perform **Markov Chain Monte Carlo(MCMC)** simulation to the Ising model simulation and understand the phase transition. The reason of using C instead of python is that C offers us faster computation time on large system than Python.
 
 
