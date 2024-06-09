@@ -1,6 +1,6 @@
 <h1> 👨🏻‍💻 Ricky Pang,
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=32&duration=1000&pause=1000&color=2196F3&width=435&lines=I+am+a+Researcher_;I+am+a+Programmer_;I+am+an+AI+%2F+Web+Developer_" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica+Neue&size=32&duration=1000&pause=1000&color=2196F3&width=435&lines=I+am+a+Quant+Researcher_;I+am+a+Cloud+Data+Engineer_;I+love+Rust BTW;" alt="Typing SVG" /></a>
 </h1>
 Hi! I am an aspiring Quant and Cloud Data engineer in Hong Kong. I obtained my M.Phil in condense matter physics in 2023. Currently I am interested in using Rust to build blazingly fast trading system and backtest for quantitative research purposes. Besides, leveraging AWS cloud services like DynamoDB, AWS Lambda, and Serverless Application Models (SAM) are my daily routine as a Cloud Data Engineer. 
 
