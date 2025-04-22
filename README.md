@@ -9,9 +9,9 @@ You can connect with me through [LinkedIn](https://www.linkedin.com/in/ka-chun-p
 
 <h2> Languages and Tools</h2>
 <div style="display: flex; flex-direction: row;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=40 width=40 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   height=40 width=40  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height=40 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=40 width=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height=40 width=40  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height=40 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height=40/>
