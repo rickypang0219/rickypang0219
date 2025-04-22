@@ -27,11 +27,16 @@ You can connect with me through [LinkedIn](https://www.linkedin.com/in/ka-chun-p
           
 </div>
 
+## Current Project 
+1. [Binance connector in Rust](https://github.com/rickypang0219/binance-rust-aws) I am now reinventing the wheel to learn how to run Binance connector in Rust inspired by `binance-rs` and `binance-rs-aysnc`. The ultimate goal is to write a Rust program that can
+   - support Websocket connections and handle message differently
+   - low-latency data steaming using Lock free/wait free acrhitecture
+   - Event-driven system design for trading
 
-## Current Projects 
-1. [RUST AWS SDK to write/query data inside DynamoDB]
-2. [My porfolio webpage](https://rickypang0219.github.io/) and its [GitHub page](https://github.com/rickypang0219/rickypang0219.github.io). I built this webpage using Vite/ReactJS and Material UI. This project is finished on Mid August. Originally I create an **Django** server for blog posts and the web-app works well on fetching the Django **restful APIs** using *Axios*. However, I don't have a free server to host a Django server. The **alternative way** I used here is to render the markdown files inside ReactJS. Besides, I also create a **JSON** file to stores the necessary information of each posts like titles or creation data. Therefore, I can handle the blog posts list more easily. 
-3. [Ising model simulation with C (rewritten in RUST) ](https://github.com/rickypang0219/C_simulation). Ising model is a famous model in condensed matter physics as it describes the phases of matter. In this project, I used C/RUST to perform **Markov Chain Monte Carlo(MCMC)** simulation to the Ising model simulation and understand the phase transition. The reason of using C instead of python is that C offers us faster computation time on large system than Python.
+
+## Completed Projects 
+1. [My porfolio webpage](https://rickypang0219.github.io/) and its [GitHub page](https://github.com/rickypang0219/rickypang0219.github.io). I built this webpage using Vite/ReactJS and Material UI. This project is finished on Mid August. Originally I create an **Django** server for blog posts and the web-app works well on fetching the Django **restful APIs** using *Axios*. However, I don't have a free server to host a Django server. The **alternative way** I used here is to render the markdown files inside ReactJS. Besides, I also create a **JSON** file to stores the necessary information of each posts like titles or creation data. Therefore, I can handle the blog posts list more easily. 
+2. [Ising model simulation with C (rewritten in RUST) ](https://github.com/rickypang0219/C_simulation). Ising model is a famous model in condensed matter physics as it describes the phases of matter. In this project, I used C/RUST to perform **Markov Chain Monte Carlo(MCMC)** simulation to the Ising model simulation and understand the phase transition. The reason of using C instead of python is that C offers us faster computation time on large system than Python.
 
 
 <h2> Stats </h2>
