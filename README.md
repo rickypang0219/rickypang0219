@@ -2,9 +2,8 @@
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+data+engineer;I+am+a+quant+dev+;I+love+Rust+;I+love++low-latency+programming" alt="Typing SVG" /></a>
 </h1>
-Hi! I am an aspiring Quant and Data engineer in Hong Kong. I obtained my M.Phil in condense matter physics in 2023. Currently I am interested in using Rust to build blazingly fast trading system and backtest for quantitative research purposes. Besides, leveraging AWS cloud services like DynamoDB, AWS Lambda, and Serverless Application Models (SAM) are my daily routine as a Cloud Data Engineer. 
 
-You can connect with me through [LinkedIn](https://www.linkedin.com/in/ka-chun-pang-674269229/) and [Email](rickpang_aidev@outlook.com)
+Do not optimize a thing that should not exist. Elon Musk
 
 
 <h2> Languages and Tools</h2>
